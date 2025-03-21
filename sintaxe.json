@@ -1,0 +1,12 @@
+{
+    "Product":{
+        "ProductID":"123",
+        "ProductName":"Bicicleta de 3 Rodas",
+        "Price":"120",
+        "Provider":{
+            "Name":"joão",
+            "city":"Viseu"
+            
+        }
+    }
+}
